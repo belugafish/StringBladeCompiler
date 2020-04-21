@@ -1,6 +1,6 @@
 {
     "name": "wpb/string-blade-compiler",
-    "description": "Laravel Blade String Compiler, render string as blade templates",
+    "description": "Laravel Blade String Compiler, render string as blade templates (fork)",
     "keywords": ["laravel", "blade", "compiler"],
     "license": "MIT",
     "authors": [
